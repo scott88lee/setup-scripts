@@ -1,10 +1,10 @@
 ### Installing the Windows Subsystem for Linux (WSL)
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
-Press the Windows key and search for Windows features and select Turn Windows features on and off.
-Scroll down and find Windows Subsystem for Linux and make sure it's checked, then press OK. Restart the system when prompted to.
-Next, go to the Windows store and search for Ubuntu and install it.
-Launch Ubuntu from the start menu. Enter your Linux username and password, and make a note of it (they are needed later). Under no circumstances should you leave these blank or cancel the process, as this will run your Linux installation as a root user which causes permission warnings later on and also poses a significant security risk to your system.
+* Press the Windows key and search for Windows features and select Turn Windows features on and off.
+* Scroll down and find Windows Subsystem for Linux and make sure it's checked, then press OK. Restart the system when prompted to.
+* Next, go to the Windows store and search for Ubuntu and install it.
+* Launch Ubuntu from the start menu. Enter your Linux username and password, and make a note of it (they are needed later). Under no circumstances should you leave these blank or cancel the process, as this will run your Linux installation as a root user which causes permission warnings later on and also poses a significant security risk to your system.
 Do not forget your Linux password. It is needed for admin operations in the WSL environment.
 Note: Right-clicking on the WSL window pastes whatever is in your clipboard. This can save you some time when running the longer commands here.
 
