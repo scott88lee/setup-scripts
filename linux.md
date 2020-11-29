@@ -69,6 +69,8 @@ alias pgserver="sudo -u postgres service postgresql start"
 
 **psql**  will be used to access the psql termainal
 
+
+
 ### Testing Postgres Setup
 
 Quit terminal and reopen it before testing.
@@ -136,3 +138,11 @@ Restart postgres server
 
 [](https://wdi-sg.github.io/gitbook-2019/00-config-deployment/installfest/windows/readme.html)[  
 ](https://wdi-sg.github.io/gitbook-2019/00-config-deployment/installfest/windows/install3.html)
+
+
+Install Micro editor
+cd /usr/local/bin; curl https://getmic.ro | sudo bash
+
+configs
+ctrl e
+plugins install filemanager
