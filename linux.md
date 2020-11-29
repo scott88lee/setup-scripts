@@ -141,8 +141,9 @@ Restart postgres server
 
 
 Install Micro editor
+```
 cd /usr/local/bin; curl https://getmic.ro | sudo bash
-
+```
 configs
 ctrl e
 plugins install filemanager
