@@ -16,7 +16,10 @@ https://alexmanrique.com/blog/development/2021/03/05/installing-jupyter-in-macbo
 vist homebrew.sh
 install using default script
 
-brew install opencv
+M1 native NodeJS
+``brew install node``
+
+``brew install opencv``
 
 https://www.jimbobbennett.io/installing-scikit-learn-on-an-apple-m1/
 
