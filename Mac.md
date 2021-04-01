@@ -9,3 +9,7 @@ killall Dock
 
 M1 Mac
 https://dhananjak.medium.com/install-homebrew-on-m1-macbook-ce3a0232c19d
+
+https://www.jimbobbennett.io/installing-scikit-learn-on-an-apple-m1/
+
+https://alexmanrique.com/blog/development/2021/03/05/installing-jupyter-in-macbook-air-m1.html
