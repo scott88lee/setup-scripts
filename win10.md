@@ -19,7 +19,7 @@
 -   Next, symlink it by opening a WSL window and running the following commands in order
     
     -   `cd ~`
-    -   `ln -s /mnt/c/Users/Bobby\ Tan/projects ./projects`
+    -   `ln -s /mnt/c/Users/scott/Desktop/Dev ./Dev`
 -   From now on, you will be able to access the projects folder in your WSL installation as if it were a directory in it.
     
 -   Install your text editor of choice in Windows, e.g. Sublime Text ([https://www.sublimetext.com/3](https://www.sublimetext.com/3)) or VSCode ([https://code.visualstudio.com/download](https://code.visualstudio.com/download)).
